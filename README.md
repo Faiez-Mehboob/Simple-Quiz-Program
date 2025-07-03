@@ -60,13 +60,13 @@ Main Menu
 
 ## 💻 Usage Instructions
 
-- 1. Open DOSBox or an x86 emulator environment.
-- 2. Mount the folder containing the .ASM file.
-- 3. Assemble and run the program using:
--    tasm quiz.asm
--    tlink quiz.obj
--    quiz.exe
-- 4. Follow on-screen instructions to take quizzes.
+1. Open DOSBox or an x86 emulator environment.
+2. Mount the folder containing the .ASM file.
+3. Assemble and run the program using:
+   - tasm quiz.asm
+   - tlink quiz.obj
+   - quiz.exe
+4. Follow on-screen instructions to take quizzes.
 
 ## 🛠️ Learning Outcomes
 
