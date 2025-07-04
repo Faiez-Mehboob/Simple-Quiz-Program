@@ -22,11 +22,11 @@ All while building an interactive quiz experience within a text-based console in
   - 2️⃣ CyberSecurity  
   - 3️⃣ DSA
 
-- 📚 Each quiz contains multiple-choice questions (A/B/C/D)
-- 🔡 Case-insensitive input — uppercase entries are converted to lowercase
-- ✅ Input validation — invalid choices are marked wrong
-- 🧠 Score tracking based on correct answers
-- 📊 End-of-quiz result screen with:
+- Each quiz contains multiple-choice questions (A/B/C/D)
+- Case-insensitive input — uppercase entries are converted to lowercase
+- Input validation — invalid choices are marked wrong
+- Score tracking based on correct answers
+- End-of-quiz result screen with:
   - Final score
   - Performance message (based on score)
   - List of incorrectly answered questions with:
